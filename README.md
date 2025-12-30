@@ -95,7 +95,7 @@ test_scenarios:
 
 ## Katkı
 
-Bu repo açık kaynak ama aktif olarak ben ([@erenmustafaozdal](https://github.com/erenmustafaozdal)) geliştiriyorum.
+Bu repo açık kaynak ama aktif olarak ben ([@erennc](https://github.com/erennc)) geliştiriyorum.
 
 ## Lisans
 
